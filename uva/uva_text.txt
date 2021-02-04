@@ -1,0 +1,445 @@
+<doc>
+<docno> LA010189-0001 </docno>
+<docid> 1 </docid>
+<date>
+<p>
+January 1, 1989, Sunday, Home Edition 
+</p>
+</date>
+<section>
+<p>
+Book Review; Page 1; Book Review Desk 
+</p>
+</section>
+<length>
+<p>
+1206 words 
+</p>
+</length>
+<headline>
+<p>
+NEW FALLOUT FROM CHERNOBYL; 
+</p>
+<p>
+THE SOCIAL IMPACT OF THE CHERNOBYL DISASTER BY DAVID R. MARPLES (ST. MARTIN'S 
+PRESS: $35, CLOTH; $14.95, PAPER; 316 PP., ILLUSTRATED; 0-312-02432-0) 
+</p>
+</headline>
+<byline>
+<p>
+By James E. Oberg , Oberg, a space engineer in Houston, is the author of 
+Uncovering Soviet Disasters: Exploring the Limits of Glasnost (Random House). 
+</p>
+</byline>
+<text>
+<p>
+The onset of the new Gorbachev policy of glasnost, commonly mistranslated as 
+openness but closer in connotation to candor or publicizing, has complicated 
+the task of Soviet secret-keepers and has allowed substantial new Western 
+insights into Soviet society. David R. Marples' new book, his second on the 
+Chernobyl accident of April 26, 1986, is a shining example of the best type of 
+non-Soviet analysis into topics that only recently were absolutely taboo in 
+Moscow official circles. 
+</p>
+<p>
+The author, a British-educated historian and economist, is a research associate 
+with the Canadian Institute of Ukrainian Studies at the University of Alberta, 
+and the academic style of the book is undisguised. However, its intended 
+audience is the general public, and anyone interested in nuclear power, or 
+Soviet economy and society, or human drama, or just plain sleuthing state 
+secrets, will find hitherto unpublished revelations and explanations of the 
+event and its continuing aftermath. 
+</p>
+<p>
+The effects of Chernobyl reverberated throughout so many facets of Soviet 
+society that a continuous coherent narrative is probably impossible. Marples 
+discusses half a dozen major themes arranged in a fairly arbitrary order (as 
+indicated by the frequent and helpful cross references throughout the text) and 
+succeeds in mapping out his main themes. The personal interests of each reader 
+determine which of the sections may be deemed too detailed and which too 
+sketchy, but considering the need for such a comprehensive overview, the levels 
+are generally appropriate. 
+</p>
+<p>
+The book is, on the one hand, not a light read, and an executive summary might 
+have been possible in a quarter the length. But, on the other, so many of the 
+judgments depend on a subtle interpretation of a multitude of sources that the 
+author is obligated to present the raw data for the reader's inspection. The 
+modular nature of the book also allows a reader to skip, browse, and revisit 
+earlier sections, aided by a convenient internal organization and a thorough 
+index. 
+</p>
+<p>
+First in the world's attention, and in the text, is a discussion of the human 
+victims of the accident. The official tally is 31 (only about 20 names have 
+ever been released), but Marples suspects there were other short-term radiation 
+victims. A large number of unnecessary late-term abortions were also performed 
+on local women, and by rights those unborn babies count as casualties. 
+Widespread "radiophobia" led to restricted diets which created malnourishment 
+and subsequent disease in thousands of people. The tens of thousands of people 
+taking part in cleanup operations were never included in official totals of 
+those exposed. Since the book went to press, Soviet military sources have 
+referred to at least one death in the actual reactor entombment program. 
+</p>
+<p>
+But the greatest toll is likely to occur with the delayed deaths. Here, Marples 
+encounters for the first time the soon familiar theme of official Soviet 
+myth-making around the event: Reality is twisted to serve state policy 
+objectives, which include calming an alarmed public with assurances that all is 
+well when it isn't. 
+</p>
+<p>
+And thus is born what he properly labels the "myth of Chernobyl," the official 
+line that the disaster provided a test that Soviet society passed with honor. 
+"In the Soviet view," he writes, "it was first and foremost a victory, a story 
+with an ending, and an ending that was triumphant." 
+</p>
+<p>
+Thus, when sober Western medical estimates placed the future "excess cancer 
+deaths" at several tens of thousands, both in the Soviet Union and in Europe (a 
+few tenths of a percent elevation of the natural cancer rate), the Soviets 
+reacted furiously. The estimates are branded "nonsense" and the estimators are 
+dismissed as "panic mongers" promulgating "anti-Soviet venom." 
+</p>
+<p>
+Subsequently the author addresses themes of environmental impact, economic and 
+political repercussions, public images, and the recovery operations. Along the 
+way, Marples provides a damning list of examples in which Soviet officials 
+attempted to retreat behind old-style cover-ups and outright lies. False 
+information was issued on radiation levels, on subsequent accidents at the 
+site, on contamination levels of the Kiev water supply, on severe discipline 
+against non-volunteer cleanup personnel, on reactor entombment schedules and on 
+operator training levels. 
+</p>
+<p>
+A severe 1986-1987 countrywide electrical power shortage was officially denied 
+although it was real enough to compel the restart of three Chernobyl reactors 
+in explicit violation of Soviet safety regulations. Design deficiencies of the 
+Chernobyl-style reactors were downplayed and human errors were declared to be 
+the primary culprit. 
+</p>
+<p>
+Ultimately, observes the author, "It is ironic that in an era of openness, 
+Chernobyl may have been both the pioneer of glasnost under Gorbachev and then 
+subsequently its first casualty." He ultimately concludes, "Aspects of the 
+disaster . . . have rarely been dealt with thoroughly or even honestly by 
+Soviet sources." Hence the need for this book, a need which is admirably 
+fulfilled despite the many remaining mysteries and uncertainties. 
+</p>
+<p>
+The July, 1987, trial of reactor personnel marked a full circle of disclosure. 
+Journalists were allowed into the pre-scripted first and last days, but the 
+weeklong deliberative sessions were held in secret and no word of their 
+substance has ever been released. 
+</p>
+<p>
+The propaganda purpose of the trial and surrounding official publicity, he 
+maintains, had one goal: "To divert culpability from the party hierarchy, in 
+Kiev and especially in Moscow." This is precisely the theme I have also 
+encountered in my own investigations of aerospace accidents of the past. Where 
+individual human failings led to catastrophe, a sanitized story may eventually 
+be released, but where Kremlin policy led to disaster (such as the Nedelin 
+catastrophe of 1960 or the Soyuz-1 disaster in 1967), the entire event remains 
+absolutely off limits to glasnost. 
+</p>
+<p>
+The closing blow-by-blow description of the nuclear power debate presages a 
+dramatic event which occurred too recently for inclusion in this first edition. 
+Viktor Legasov, tagged by the author as one of the country's two leading 
+pro-nuclear advocates, actually was sinking into private despair over the poor 
+implementation of safety standards. In the end, he made his final and most 
+eloquent testimony to this despair on the second anniversary of the accident, 
+by committing suicide. For several weeks the Soviets tried to sit on the 
+circumstances of his "tragic death," even issuing official non-explanations 
+which asserted that the death was not due to medical effects of radiation. 
+Finally, crusading journalist Vladimir Gubarev, with access to Legasov's 
+notebooks, broke the story in Pravda. Readers of this book will come to know 
+these and other characters so well that the suicide fits right into the "big 
+picture" of the catastrophe's social impacts. 
+</p>
+<p>
+For an author to so accurately describe a social milieu that subsequent 
+unpredictable events only enhance his insights is testimony to the highest 
+quality of scholarship. Readers of Marples' book will rarely be surprised as 
+the Chernobyl catastrophe's consequences continue to unfold in the future. 
+</p>
+</text>
+<graphic>
+<p>
+Photo, Chernobyl Then and Now :Photographs of the damaged reactor taken before 
+the construction of its concrete "sarcophagus" are, for obvious reasons, aerial 
+photographs. Left, an artist's reconstruction of the reactor as it would have 
+looked from the ground before the sarcophagus was in place. The point of view 
+is the same as that of an official Soviet photograph, right, taken as the 
+entombment neared completion. 
+</p>
+</graphic>
+<type>
+<p>
+Book Review; Main Story 
+</p>
+</type>
+</doc>
+<doc>
+<docno> LA010189-0013 </docno>
+<docid> 31 </docid>
+<date>
+<p>
+January 1, 1989, Sunday, Home Edition 
+</p>
+</date>
+<section>
+<p>
+Book Review; Page 10; Book Review Desk 
+</p>
+</section>
+<length>
+<p>
+146 words 
+</p>
+</length>
+<headline>
+<p>
+CURRENT PAPERBACKS: WAITING FOR CHILDHOOD BY SUMNER LOCKE ELLIOTT (PERENNIAL 
+LIBRARY/ HARPER &amp; ROW: $7.95) 
+</p>
+</headline>
+<byline>
+<p>
+By ELENA BRUNET 
+</p>
+</byline>
+<text>
+<p>
+Set in Australia at the turn of the 20th Century, "Waiting for Childhood" is 
+the story of seven children left to cope for themselves after their parents 
+die. Their father, The Rev. William Lord, expires at the breakfast table one 
+morning. After the family leaves for a ramshackle house owned by a wealthy 
+cousin, the mother loses her mind and then her life in an accident. 
+</p>
+<p>
+The eldest daughter, Lily, takes charge of the entire household, as Jess 
+becomes a favorite of her rich cousin Jackie and watches her rival for Jackie's 
+affections fall fatally from a mountaintop. 
+</p>
+<p>
+These characters, "all talented, all deeply human, (are) all so beautifully 
+realized that by the end of the novel we identify with them to the point of 
+heartbreak," Carolyn See wrote in these pages. " 'Waiting for Childhood' 
+manages to be at once terribly melancholy and extraordinarily exhilarating." 
+</p>
+</text>
+<type>
+<p>
+Column; Book Review 
+</p>
+</type>
+</doc>
+<doc>
+<docno> LA010189-0032 </docno>
+<docid> 74 </docid>
+<date>
+<p>
+January 1, 1989, Sunday, Home Edition 
+</p>
+</date>
+<section>
+<p>
+Business; Part 4; Page 3; Column 1; Financial Desk 
+</p>
+</section>
+<length>
+<p>
+1299 words 
+</p>
+</length>
+<headline>
+<p>
+VIEWPOINTS; 
+</p>
+<p>
+'89 WISH LIST: PROTECTION, TAXES AND PEACE; 
+</p>
+<p>
+SOCIAL BENEFITS, DEFICIT REDUCTION ARE TOP PRIORITIES FOR THE NEW YEAR 
+</p>
+</headline>
+<text>
+<p>
+What changes would you like to see in business practices and the workplace this 
+year? How can business leaders and economic policy-makers improve the economy 
+and the world in general in 1989? The Times ran these questions by people in 
+various walks of life, and here are some of their answers: 
+</p>
+<p>
+</p>
+<p>
+Muriel Siebert, head of the Muriel Siebert &amp; Co. discount brokerage in New 
+York, and first female member of the New York Stock Exchange: 
+</p>
+<p>
+"I would like to see certain business practices regulated. I think that the 
+leveraged buyouts show the greed of people at their worst. . . . The LBOs are 
+bypassing the purpose of the capital-raising system. I think that to the extent 
+that people were stockholders in these companies . . . they should be allowed 
+to continue to have some kind of share in the profits (after the leveraged 
+buyouts) because these moves were done while they were stockholders. 
+</p>
+<p>
+"Must greed be the creed? I would like to see that also rolled over to our 
+defense contractors. I am pro defense. I believe in a strong country because 
+people mistake gentility for weakness. If (contractors) cheat on defense 
+contracts, I don't see why they don't go to jail. . . . I just feel that if you 
+are a major defense contractor, you owe a fiduciary responsibility to this 
+country because defense expenditures are putting a pretty big toll on the 
+country." 
+</p>
+<p>
+Andrew Brimmer, former member of the Federal Reserve Board and head of a 
+Washington economics consulting firm: 
+</p>
+<p>
+"My leading wish is that the nation deal with the federal budget deficit. I 
+would like to see a substantial reduction in 1989 and extending over the next 
+three years. I would strongly recommend that we raise taxes. There should be 
+some moderation in the level of government expenditures, but the real problem 
+is the lag in revenue. 
+</p>
+<p>
+"I also would like to see more done for education by business. The kind of 
+education I'm talking about is at the elementary and secondary level. 
+Businesses are already contributing to colleges. Businesses should do likewise 
+for elementary and secondary schools. Business people can play a role as 
+counselors and teachers. A firm might make available an engineer or 
+mathematician to go into schools and teach. Business should do more to offer 
+on-the-job training for unskilled, or limited-skills, people, perhaps through a 
+(lower) learning wage. We would give business tax credits to do this." 
+</p>
+<p>
+William R. Robertson, executive secretary of the Los Angeles County Federation 
+of Labor, AFL-CIO: 
+</p>
+<p>
+"I would like to see a change in philosophy by the incoming President relating 
+to labor relations and providing for fairness in our (labor) organizing efforts 
+and contract negotiations. . . . 
+</p>
+<p>
+"I would also like to see some protection for workers losing their jobs because 
+of mergers. It is a national disgrace. In too many mergers, the workers are the 
+ones that suffer and the country as well. Something should be done to correct 
+it. . . . 
+</p>
+<p>
+"And, finally, this Administration should face reality in resolving the 
+astronomical deficit." 
+</p>
+<p>
+Steven D. Lydenberg, an associate with the "socially responsible" investment 
+firm of Franklin Research &amp; Development: 
+</p>
+<p>
+"There is an increasing interest around the country in social investing. People 
+want to know not just the financial implications of making a commitment in a 
+company, but also the social implication. That information is not very easy to 
+come by. 
+</p>
+<p>
+"So, if at the end of '89 corporations were disclosing in a uniform way their 
+yield figures, their charitable contribution figures, the numbers of women and 
+minorities in top management and board directors, their attitude on a number of 
+comparable social issues, I would be very happy." 
+</p>
+<p>
+Frank Borman, chairman of Patlex Corp. of Chatsworth, former astronaut and 
+former chairman of Eastern Airlines: 
+</p>
+<p>
+"We should begin to move toward taxing consumption -- a value-added tax. This 
+is quite controversial as Al Ullman (Oregon Democrat and former chairman of the 
+House Ways and Means Committee, who was defeated in 1988 after advocating a 
+value-added tax) will tell you. But this taxing system is needed. It would 
+certainly help our exports. Almost all of Europe is under the value-added 
+taxing system. Also, it may encourage saving instead of consumption. One of the 
+ways you discourage consumption is to tax it." 
+</p>
+<p>
+Michael Harrington, co-chair of Democratic Socialists of America and author of 
+"The Other America" and "The New American Poverty": 
+</p>
+<p>
+"I hope Secretary of State Baker will build on the basic insights of former 
+Treasury Secretary Baker (James Baker, former treasury secretary, was nominated 
+by President-elect Bush to be Secretary of State) that a settlement of Third 
+World debt is in the self-interest of America, opening up markets for business 
+and labor. But then the new Baker will have to go far beyond the old, since 
+Latin America now owes more than it did in 1982 when the crisis officially 
+began, and several countries, including Argentina and Brazil, may see democracy 
+subverted if current trends persist. 
+</p>
+<p>
+"At home, the nation must recognize that we can't waste young people, and 
+particularly minorities and women, on illiteracy, unemployment and unproductive 
+low-wage work. We must invest mightily in education, training and job 
+generation." 
+</p>
+<p>
+Alan Bromberg, a securities law expert and professor at Southern Methodist 
+University: 
+</p>
+<p>
+"There are several things I would like most to see changed in the economy and 
+business practices. One, more concentration by business and government, both 
+here and abroad, on . . . the facilitation of international trade and 
+investment. This would require wider horizons for business people . . . and 
+more effort by government to reduce and ultimately eliminate all kinds of 
+restrictions on the movement of products. 
+</p>
+<p>
+"Two, I would like to see a national consensus developed, preferably in the 
+form of federal legislation, on corporate takeovers and buyouts that would 
+recognize the efficiencies and benefits they bring as well as the dislocations 
+and hardships they can cause. This would involve tax policies and labor polices 
+and limitations on the ability of states to Balkanize corporate law by 
+different anti-takeover statutes everywhere. (There also should be) some kind 
+of limitation on management self-entrenchment and self-enrichment. 
+</p>
+<p>
+"I think we could use a lot of clarification of the securities laws. I think 
+the courts have done a good job of saying what insider trading is. The kind of 
+issues that are most difficult are what really is parking (of stock)? How much 
+cooperation or similar action by different individuals or different groups of 
+individuals makes it collaboration? These issues haven't been well resolved. . 
+. . 
+</p>
+<p>
+Peter Bahouth, executive director of Greenpeace in Washington: 
+</p>
+<p>
+"People now view threats to human security less in terms of political threats 
+and more in environmental and economic terms. So for my wish list, I would ask 
+first that we deal with the issue of the greenhouse effect. We better develop 
+some alternative views in mass transportation and cut subsidies to reflect the 
+true cost of fossil fuels in terms of pollution, along with the actual economic 
+cost of development. Then, we could put more money into research and 
+development of wind and solar energy. 
+</p>
+<p>
+"(Also on my wish list is) peace on earth. If we want peace on earth, we have 
+to start looking seriously at the fact that we are making more and more 
+weapons, and in a process which endangers the health of American people. . . . 
+Production plants have been proven to have released into the air and water 
+radioactivity and toxic chemicals." 
+</p>
+<p>
+"Also, it would be nice if we could learn that the rain forest affects all of 
+us. We need to preserve it. And we would like the tuna industry to stop killing 
+dolphins." 
+</p>
+</text>
+<graphic>
+<p>
+Drawing, JILL BANASHEK / for The Times 
+</p>
+</graphic>
+</doc>
